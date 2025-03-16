@@ -1,5 +1,1 @@
-programa {
-  funcao inicio() {
-    escreva("Olá, Mundo")
-  }
-}
+Lista de Exercícios I Centro Universitário UNA - Programação de Soluções Computacionais.
